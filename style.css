@@ -1,0 +1,19 @@
+/*
+ Theme Name:   tk-emely
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  TK Master Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  tk-master-child
+*/
+
+body {
+	background-image:url("http://ihdimages.com/wp-content/uploads/2014/11/new_york_city_at_night_free_wallpaper.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
