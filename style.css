@@ -29,6 +29,14 @@ body {
 
 .navbar-default {
 	background: rgba(230, 0, 0, 0);
+	border-color:rgba(230, 0, 0, 0);
 }
+ 
+
+	/*.navbar-default .navbar-nav>.active>a {
+    color: #555;
+    background-color:rgba(255, 77, 210, 0);
+}*/
+
 
  
