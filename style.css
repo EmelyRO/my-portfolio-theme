@@ -13,12 +13,16 @@
 */
 
 body {
-	background-image:url("http://ihdimages.com/wp-content/uploads/2014/11/new_york_city_at_night_free_wallpaper.jpg");
+	/*background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/52/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg");
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size:cover;*/
     color:#ffffff;
+    background-color:black;
 }
 
 .jumbotron {
-	background-color:rgba(102, 102, 255, 0);
+	/*background-color:rgba(102, 102, 255, 0);*/
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/52/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg");
+    background-size:cover;
+    color:#fff;
 }
