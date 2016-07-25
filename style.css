@@ -26,3 +26,6 @@ body {
     background-size:cover;
     color:#fff;
 }
+ #main-menu {
+ 	float:right;
+ }
