@@ -17,6 +17,9 @@
 body {
     color:#212121;
     background-color:#455A64;
+    font-family: 'Lobster', cursive;
+    font-size:25px;
+
 
 }
 
@@ -25,10 +28,20 @@ body {
     background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/52/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg");
     background-size:cover;
     color:#fff;
+   
+
+
 }
+
  #main-menu {
  	float:right;
  }
+
+header {
+	font-family: 'Nunito', sans-serif;
+}
+
+
 
 
 
