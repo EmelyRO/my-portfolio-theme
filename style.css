@@ -12,13 +12,19 @@
  Text Domain:  tk-master-child
 */
 
+@font-face {
+  font-family: 'Francois One', sans-serif;
+  src: url(https://fonts.googleapis.com/css?family=Francois+One);
+}
 
+div {
+  font-family: 'Francois One', sans-serif;
+}
 
 body {
     color:#FFFFFF;
     background-color:#212121;
-    font-family: 'Shadows Into Light', serif;
-    font-size:20px;
+    
 
 
 }
@@ -37,9 +43,7 @@ body {
  	float:right;
  }
 
-header {
-	font-family: 'Fjalla One', sans-serif;
-}
+
 
 
 
