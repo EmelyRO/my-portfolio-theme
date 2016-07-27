@@ -12,22 +12,13 @@
  Text Domain:  tk-master-child
 */
 
-@font-face {
-  font-family: 'Francois One', sans-serif;
-  src: url(https://fonts.googleapis.com/css?family=Francois+One);
-}
+@import 'https://fonts.googleapis.com/css?family=Ubuntu';
 
-div {
-  font-family: 'Francois One', sans-serif;
-}
 
 body {
     color:#FFFFFF;
     background-color:#212121;
-    
-
-
-}
+    }
 
 .jumbotron {
 	
@@ -43,9 +34,7 @@ body {
  	float:right;
  }
 
- header {
- 	font-family:;
- }
+
 
 
 
