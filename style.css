@@ -12,7 +12,7 @@
  Text Domain:  tk-master-child
 */
 
-@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
 
 
 body {
@@ -35,13 +35,14 @@ body {
  	float:right;
  }
 
- h1,h2,h3 {
+ h1, h2, h3 {
  font-family: 'Open Sans', sans-serif;
 
 }
 
-.navbar {
+.navbar-default {
 	background-color:#0097A7;
+  border color:transparent;
 }
 
 .btn {
