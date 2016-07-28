@@ -42,12 +42,15 @@ body {
 
 .navbar-default {
 	background-color:#0097A7;
-  border color:transparent;
+  border-color:transparent;
+  
 }
 
 .btn {
   background-color:#CDDC39;
 }
+
+
 
 
 
