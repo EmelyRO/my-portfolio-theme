@@ -37,7 +37,10 @@ body {
  .navbar-default {
  	background-color:#455A64;
  }
-
+ 
+ a {
+ 	color:#fff;
+ }
 
 
 
