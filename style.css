@@ -12,21 +12,15 @@
  Text Domain:  tk-master-child
 */
 
-@font-face {
-  font-family: 'Francois One', sans-serif;
-  src: url(https://fonts.googleapis.com/css?family=Francois+One);
-}
+@import 'https://fonts.googleapis.com/css?family=Aref+Ruqaa';
 
-div {
-  font-family: 'Francois One', sans-serif;
-}
-
+/** {
+	border: 1px dotted red;
+}*/
 body {
     color:#FFFFFF;
-    background-color:#212121;
-    
-
-
+    background-color:#616161;
+    font-family: 'Aref Ruqaa', serif;
 }
 
 .jumbotron {
@@ -34,18 +28,19 @@ body {
     background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/52/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg");
     background-size:cover;
     color:#fff;
-   
-
-
-}
+   }
 
  #main-menu {
  	float:right;
  }
 
- header {
- 	font-family:;
+ .navbar-default {
+ 	background-color:#455A64;
  }
+
+
+
+
 
 
 
