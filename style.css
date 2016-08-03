@@ -14,28 +14,29 @@
 
 @import 'https://fonts.googleapis.com/css?family=Aref+Ruqaa';
 
-/** {
+ {
 	border: 1px dotted red;
-}*/
+}
 body {
     color:#FFFFFF;
-    background-color:#616161;
+    background-color:#009688;
     font-family: 'Aref Ruqaa', serif;
 }
 
 .jumbotron {
 	
-    background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/52/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg");
-    background-size:cover;
-    color:#fff;
+    background-color:#B2DFDB;
+    color:#212121;
    }
+
+
 
  #main-menu {
  	float:right;
  }
 
  .navbar-default {
- 	background-color:#455A64;
+ 	background-color:#00796B;
  }
  
  a {
@@ -52,7 +53,7 @@ body {
 
 .navbar-default .navbar-nav>.active>a {
 	color:#fff;
-	background-color:#607D8B;
+	background-color:#B2DFDB;
 }
 
 
